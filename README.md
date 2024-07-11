@@ -7,4 +7,4 @@ The discrete Fourier transform of the STV signal produces the STV spectrum. In t
 
 The comparison results indicate that the STV spectrum not only has similar functionality to the envelope spectrum but also performs better in high noise environments.
 
-For using this method please cite my accepted work as: Meng Zhang, Short-Time Variance Providing Evidential Reference Frequency for Lock-In Amplifier in Fault Diagnosis of Rolling Bearings, Journal of Vibration Engineering & Technologies, 2024.
+For using this method please cite my accepted work as: Meng Zhang, Short-Time Variance Providing Evidential Reference Frequency for Lock-In Amplifier in Fault Diagnosis of Rolling Bearings, Journal of Vibration Engineering & Technologies, 2024. (DOI: 10.1007/s42417-024-01508-8)
